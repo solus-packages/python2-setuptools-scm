@@ -1,6 +1,6 @@
 name       : python2-setuptools-scm
 version    : 5.0.2
-release    : 1
+release    : 2
 source     :
     - https://pypi.io/packages/source/s/setuptools_scm/setuptools_scm-5.0.2.tar.gz : 83a0cedd3449e3946307811a4c7b9d89c4b5fd464a2fb5eeccd0a5bb158ae5c8
 homepage   : https://github.com/pypa/setuptools_scm/
@@ -13,7 +13,6 @@ builddeps  :
     - git            # check
     - mercurial      # check
     - pip            # check
-    - python-importlib-metadata
     - python-setuptools
     - python-toml    # check
     - python2-pytest # check

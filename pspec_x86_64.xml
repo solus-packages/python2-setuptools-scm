@@ -58,8 +58,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2022-04-15</Date>
+        <Update release="2">
+            <Date>2022-08-26</Date>
             <Version>5.0.2</Version>
             <Comment>Packaging update</Comment>
             <Name>Algent Albrahimi</Name>
